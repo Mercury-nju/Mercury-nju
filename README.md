@@ -1,24 +1,30 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mercury.;AI+Dev+%26+PM.;Building+products+in+Hangzhou.;Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
+## Hi, I'm Mercury. AI Dev & PM.
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Born-2002-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/School-Nanjing%20University-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Base-Hangzhou-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-On%20Leave-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Mode-Startup-111111?style=flat-square" />
+### Young founder building AI-native products in Hangzhou.
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-AI%20Products-2563eb?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Build-Shipping%20Fast-0f766e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-Young%20Founder-c2410c?style=for-the-badge" />
+**Taking time off school to build something of my own.**
+
+</div>
+
+<div align="center">
+
+`Born 2002` · `Nanjing University` · `Now based in Hangzhou`
+
+</div>
+
+<div align="center">
+
+`On leave` · `Startup mode` · `Shipping fast` · `Building in public`
 
 </div>
 
@@ -27,7 +33,8 @@
 <a href="https://github.com/Mercury-nju">
   <img src="https://img.shields.io/badge/GitHub-Mercury--nju-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Currently-Building%20in%20Public-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-AI%20Products-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/Role-Young%20Founder-c2410c?style=flat-square" />
 
 </div>
 
