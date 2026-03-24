@@ -1,8 +1,6 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,30&text=Mercury&fontAlign=50&fontAlignY=36&desc=AI%20Dev%20%26%20PM%20%7C%20Founder%20%7C%20Builder&descAlign=50&descAlignY=58&fontColor=ffffff" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=gradient&amp;customColorList=12,20,24,30&amp;text=Mercury&amp;fontAlign=50&amp;fontAlignY=36&amp;desc=AI%20Dev%20%26%20PM%20%7C%20Founder%20%7C%20Builder&amp;descAlign=50&amp;descAlignY=58&amp;fontColor=ffffff" />
+</p>
 
 <div align="center">
 
@@ -34,7 +32,6 @@
   <img src="https://img.shields.io/badge/GitHub-Mercury--nju-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Currently-Building%20in%20Public-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/github/followers/Mercury-nju?style=flat-square&color=2563eb&label=Followers" />
 
 </div>
 
