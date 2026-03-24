@@ -1,12 +1,6 @@
 <div align="center">
 
-## Hi, I'm Mercury.
-
-</div>
-
-<div align="center">
-
-# AI Dev & PM.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=4000&color=2563EB&center=true&vCenter=true&repeat=false&width=1100&lines=Hi%2C+I'm+Mercury.+AI+Dev+%26+PM.)](https://github.com/Mercury-nju)
 
 </div>
 
