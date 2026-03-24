@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=gradient&amp;customColorList=12,20,24,30&amp;text=Mercury&amp;fontAlign=50&amp;fontAlignY=36&amp;desc=AI%20Dev%20%26%20PM%20%7C%20Founder%20%7C%20Builder&amp;descAlign=50&amp;descAlignY=58&amp;fontColor=ffffff" />
-</p>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mercury.;AI+Dev+%26+PM.;Building+products+in+Hangzhou.;Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
