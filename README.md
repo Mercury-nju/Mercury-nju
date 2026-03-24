@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,30&text=Hongyang&fontAlign=50&fontAlignY=36&desc=Founder%20%7C%20Builder%20%7C%20Developer&descAlign=50&descAlignY=58&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,30&text=Mercury&fontAlign=50&fontAlignY=36&desc=Founder%20%7C%20Builder%20%7C%20Developer&descAlign=50&descAlignY=58&fontColor=ffffff" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hongyang.;Building+products+in+Hangzhou.;Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mercury.;Building+products+in+Hangzhou.;Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
 
 </div>
 
