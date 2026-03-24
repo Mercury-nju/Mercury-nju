@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hongyang.
 
-<!--
-**Mercury-nju/Mercury-nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Born 2002 · Nanjing University.`
+`Now based in Hangzhou · Taking time off school to build something of my own.`
 
-Here are some ideas to get you started:
+Founder / Builder / Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Now ####
+
+- building as a young founder
+- staying close to code and users
+- exploring AI-native products
+- learning business by making real things
+
+#### Journey ####
+
+Nanjing University -- `Undergraduate`
+Hangzhou -- `Now building full-time`
+Present -- `On leave from school, working on products, AI, and new ideas`
+
+#### Belief ####
+
+Good products are built with taste, speed, and honesty.
+
+#### Notes ####
+
+Not defining myself by a single project.
+Still building, still iterating, still early.
