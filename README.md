@@ -1,30 +1,34 @@
 <div align="center">
 
-## Hi, I'm Mercury. AI Dev & PM.
+## Hi, I'm Mercury.
 
 </div>
 
 <div align="center">
 
-### Young founder building AI-native products in Hangzhou.
+### AI Dev & PM.
 
 </div>
 
 <div align="center">
 
-**Taking time off school to build something of my own.**
+### Building products in Hangzhou.
 
 </div>
 
 <div align="center">
 
-`Born 2002` · `Nanjing University` · `Now based in Hangzhou`
+### Taking time off school to build my own company.
 
 </div>
 
 <div align="center">
 
-`On leave` · `Startup mode` · `Shipping fast` · `Building in public`
+<img src="https://img.shields.io/badge/Born-2002-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/School-Nanjing%20University-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Base-Hangzhou-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-On%20Leave-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Mode-Startup-111111?style=flat-square" />
 
 </div>
 
@@ -33,8 +37,15 @@
 <a href="https://github.com/Mercury-nju">
   <img src="https://img.shields.io/badge/GitHub-Mercury--nju-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Focus-AI%20Products-2563eb?style=flat-square" />
-<img src="https://img.shields.io/badge/Role-Young%20Founder-c2410c?style=flat-square" />
+<img src="https://img.shields.io/badge/Currently-Building%20in%20Public-7c3aed?style=flat-square" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-AI%20Products-2563eb?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Build-Shipping%20Fast-0f766e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Young%20Founder-c2410c?style=for-the-badge" />
 
 </div>
 
