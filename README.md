@@ -1,12 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=4000&color=2563EB&center=true&vCenter=true&repeat=false&width=1100&lines=Hi%2C+I'm+Mercury.+AI+Dev+%26+PM.)](https://github.com/Mercury-nju)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=4000&color=2563EB&center=true&vCenter=true&repeat=false&width=1200&lines=Building+products+in+Hangzhou.+Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=110&lines=Hi%2C+I'm+Mercury.+AI+Dev+%26+PM.;Building+products+in+Hangzhou.+Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
 
 </div>
 
