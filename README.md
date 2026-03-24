@@ -1,55 +1,115 @@
 <div align="center">
 
-# Hi, I'm Hongyang. Founder / Builder / Developer.
-
-### Building products in Hangzhou.
-### Taking time off school to build something of my own.
-
-`Born 2002` · `Nanjing University` · `Based in Hangzhou` · `On leave` · `Startup mode`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=12,20,24,30&text=Hongyang&fontAlign=50&fontAlignY=36&desc=Founder%20%7C%20Builder%20%7C%20Developer&descAlign=50&descAlignY=58&fontColor=ffffff" />
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-AI%20Products-111111?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Mode-Building%20Fast-0f766e?style=for-the-badge" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Hongyang.;Building+products+in+Hangzhou.;Taking+time+off+school+to+build+my+own+company.)](https://github.com/Mercury-nju)
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Born-2002-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/School-Nanjing%20University-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Base-Hangzhou-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-On%20Leave-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Mode-Startup-111111?style=flat-square" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-AI%20Products-2563eb?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Build-Shipping%20Fast-0f766e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Role-Young%20Founder-c2410c?style=for-the-badge" />
 
 </div>
 
-<br />
-
-| **Founder Journey** | **Current Focus** |
-| --- | --- |
-| `Nanjing University` | Building AI-native products |
-| `Currently in Hangzhou` | Staying close to code and users |
-| `Taking time off school to build full-time` | Shipping fast and learning by doing |
-| `Early, but fully committed` | Turning ideas into real software |
-
-<br />
-
-| **What I'm Doing Now** | **What I Care About** |
-| --- | --- |
-| Building as a young founder | Product taste |
-| Exploring AI product workflows | Execution speed |
-| Working on software with real users | Honest iteration |
-| Learning business through shipping | Long-term compounding |
-
-<br />
-
 <div align="center">
 
-### Philosophy
-
-**Good products are built with taste, speed, and honesty.**
+<a href="https://github.com/Mercury-nju">
+  <img src="https://img.shields.io/badge/GitHub-Mercury--nju-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Currently-Building%20in%20Public-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/github/followers/Mercury-nju?style=flat-square&color=2563eb&label=Followers" />
 
 </div>
 
 <br />
 
-| **Notes** |
-| --- |
-| Not defining myself by a single project. |
-| Still building, still iterating, still early. |
-| More interested in momentum than labels. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
+### Founder Journey
+
+- `Nanjing University`
+- `Now based in Hangzhou`
+- `Taking time off school to build full-time`
+- `Learning business by shipping real products`
+- `Still early, fully committed`
+
+> Building my own path through products, code, and relentless iteration.
+
+  </td>
+    <td width="50%" valign="top">
+
+### Current Focus
+
+- `AI-native products`
+- `Fast execution`
+- `Talking to users`
+- `Turning ideas into software`
+- `Compounding through action`
+
+> More interested in momentum, taste, and outcomes than labels.
+
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### What I'm Doing Now
+
+- Building as a young founder
+- Exploring AI product workflows
+- Staying close to both code and product taste
+- Looking for ideas worth committing years to
+
+  </td>
+    <td width="50%" valign="top">
+
+### Philosophy
+
+- Good products need taste
+- Good execution needs speed
+- Good companies need honesty
+- The best way to learn is to build
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### Snapshot
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mercury-nju&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=1f2937&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercury-nju&layout=compact&hide_border=true&title_color=2563eb&text_color=1f2937&bg_color=ffffff" />
+
+</div>
+
+<div align="center">
+
+### Note
+
+Not defining myself by a single project.  
+Still building, still iterating, still early.
+
+</div>
